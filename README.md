@@ -14,4 +14,10 @@ Step-by-Step Guide to Load a Temporary Firefox Addon
 
 Once you have selected the manifest.json file, your addon will be loaded temporarily. You should see it listed under "Temporary Extensions" on the about:debugging page. You can now test your addon by opening YouTube links to see if they are modified as expected.
 
+The addon folder should look like this:
+
+force-embed-youtube/
+├── manifest.json
+├── background.js
+
 You have to re-enable this every time you close Firefox. This is just a temporary addon.
