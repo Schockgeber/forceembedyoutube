@@ -16,8 +16,9 @@ Once you have selected the manifest.json file, your addon will be loaded tempora
 
 Your addon folder should look something like this:
 
-arduino
 
 force-embed-youtube/
+
 ├── manifest.json
+
 ├── background.js
