@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "YouTube Link Modifier",
   "version": "1.0",
-  "description": "Modifies YouTube links before the page is opened.",
+  "description": "Modifies YouTube links on reload of the page.",
   "permissions": [
     "webRequest",
     "webRequestBlocking",
