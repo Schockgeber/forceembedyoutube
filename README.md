@@ -16,9 +16,11 @@ Once you have selected the manifest.json file, your addon will be loaded tempora
 
 The addon folder should look like this:
 
+
 force-embed-youtube/
 
 ├── manifest.json
+
 ├── background.js
 
 You have to re-enable this every time you close Firefox. This is just a temporary addon.
